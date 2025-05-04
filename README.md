@@ -1,14 +1,14 @@
-# 🛡️ Phishing Alert Investigation - SOC Analyst Simulation
+# Phishing Alert Investigation - SOC Analyst Simulation
 
 This repository showcases a simulated phishing alert investigation performed in a Security Operations Center (SOC) environment. The goal of this project is to demonstrate threat detection, analysis, and incident response skills.
 
-## 📄 Overview
+## Overview
 
 A suspicious URL was detected within network traffic logs and flagged for investigation. This project documents the steps taken to analyze, verify, and respond to the potential phishing threat.
 
 ---
 
-## 📌 Alert Summary
+## Alert Summary
 
 - **Date of Event:** March 22, 2021, 09:23 PM  
 - **Source IP:** `172.16.17.49`  
@@ -22,7 +22,7 @@ A suspicious URL was detected within network traffic logs and flagged for invest
 
 ---
 
-## 🔍 Investigation Steps
+## Investigation Steps
 
 1. **Log Review**
    - Extracted source and destination IPs, timestamp, and user identity.
@@ -48,7 +48,7 @@ A suspicious URL was detected within network traffic logs and flagged for invest
 
 ---
 
-## ✅ Resolution
+## Resolution
 
 - No lateral movement detected.
 - Device contained and remediated.
@@ -57,7 +57,7 @@ A suspicious URL was detected within network traffic logs and flagged for invest
 
 ---
 
-## 📁 Files Included
+## Files Included
 
 | File | Description |
 |------|-------------|
@@ -68,7 +68,7 @@ A suspicious URL was detected within network traffic logs and flagged for invest
 
 ---
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 
 - SOC alert triage
 - Threat intelligence analysis
@@ -78,7 +78,7 @@ A suspicious URL was detected within network traffic logs and flagged for invest
 
 ---
 
-## 📬 Contact
+## Contact
 
 If you have questions or want to discuss cybersecurity topics, feel free to reach out via GitHub or connect on [LinkedIn](https://www.linkedin.com/tajaysamms/).
 
