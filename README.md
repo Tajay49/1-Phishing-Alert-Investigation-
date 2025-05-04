@@ -80,7 +80,7 @@ A suspicious URL was detected within network traffic logs and flagged for invest
 
 ## Contact
 
-If you have questions or want to discuss cybersecurity topics, feel free to reach out via GitHub or connect on [LinkedIn](https://www.linkedin.com/tajaysamms/).
+If you have questions or want to discuss cybersecurity topics, feel free to reach out via GitHub or connect on [LinkedIn](https://www.linkedin.com/in/tajay-samms/).
 
 ---
 
