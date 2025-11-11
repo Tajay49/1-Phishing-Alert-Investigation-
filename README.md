@@ -11,8 +11,8 @@ A suspicious URL was detected within network traffic logs and flagged for invest
 ## Alert Summary
 
 - **Date of Event:** March 22, 2021, 09:23 PM  
-- **Source IP:** `172.16.17.49`  
-- **Destination IP:** `91.189.114.8`  
+- **Source IP:** `172.**.**.49`  
+- **Destination IP:** `91.***.***.8`  
 - **User:** Emily comp  
 - **User-Agent:** Chrome/79.0.3945.88 (Windows 10 x64)  
 - **URL Accessed:**  
